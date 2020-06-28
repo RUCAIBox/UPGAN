@@ -18,7 +18,7 @@ Each dataset is organized with following structure:
     - `test.dat`: mapped triples of test set.
 
 ## Download
-Download preprocessed datasets from [google drive](https://drive.google.com/file/d/1q3IsIsIYHxbywbSm5zD8H1iL_iwnR-dm/view?usp=sharing)
+Download preprocessed datasets from [google drive](https://drive.google.com/file/d/1zTss-wi7FGi3FmiqBZ8IFllgImoaC53_/view?usp=sharing)
     
 ## Acknowledgement
 Any scientific publications that use our codes and datasets should cite the following paper as the reference:
@@ -32,6 +32,25 @@ Any scientific publications that use our codes and datasets should cite the foll
   title     = {Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning},
   booktitle = {{WWW}},
   year      = {2020}
+}
+
+@article{Zhao-DI-2019,
+   author = {Wayne Xin Zhao and
+               Gaole He and
+               Kunlin Yang and
+               Hong{-}Jian Dou and
+               Jin Huang and 
+               Siqi Ouyang and
+               Ji{-}Rong Wen},
+   title = {KB4Rec: A Data Set for Linking Knowledge Bases with Recommender Systems},
+   journal = {Data Intelligence},
+   volume = {1},
+   number = {2},
+   pages = {121-136},
+   year = {2019},
+   doi = {10.1162/dint\_a\_00008},
+
+   URL = {https://doi.org/10.1162/dint_a_00008},
 }
 ```
 Nobody guarantees the correctness of the data, its suitability for any particular purpose, or the validity of results based on the use of the data set. The data set may be used for any research purposes under the following conditions:

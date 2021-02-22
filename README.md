@@ -47,6 +47,7 @@ Each dataset is organized with following structure:
 ## Training Instruction
 Download preprocessed datasets from [google drive](https://drive.google.com/file/d/1zTss-wi7FGi3FmiqBZ8IFllgImoaC53_/view?usp=sharing),
 and unzip it into data/ folder
+Download pretrained DistMult embeddings from [google drive](https://drive.google.com/file/d/1n1RYCxAEIOT713lFIBI41fuM9UKjNqXv/view?usp=sharing)
 use following args to run the code
 
 ```
